@@ -108,13 +108,10 @@ Indore, India
 
 ---
 
-## 📫 Connect with me
-
+## 💼 Looking for opportunities as a Full Stack Developer. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpita-seth-3ba54a325)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:arpitaseth192@gmail.com)  
 
 ---
-
-Thanks for visiting my profile! 🚀
 
 Thanks for visiting my profile! 🚀
